@@ -12,7 +12,8 @@ The data for this project is sourced from the Kaggle dataset:
 
 ## CREATING_TABLE
 
-```sql
+```sql![logo](https://github.com/user-attachments/assets/2e48bcd2-d6fd-4876-9063-51fc6fb4d5dd)
+
 DROP TABLE if exists netflix;
 CREATE TABLE netflix (
 	show_id VARCHAR(6),
